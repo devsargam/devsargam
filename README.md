@@ -1,4 +1,4 @@
-### I am Sargam Poudel. I am a tech enthusiast that work with Python and Javascript.
+### I am Sargam Poudel. I am a tech enthusiast who work with Python and Javascript.
 
 
 - 🔭 I’m currently working on my skills.
