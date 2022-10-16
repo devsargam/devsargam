@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on my skills.
-- 🌱 I’m currently learning reactjs.
+- 🌱 I’m currently learning typescript.
 - 👯 I’m looking to collaborate on intermediate python projects.
 - 💬 Ask me about python and javascript.
 - 😄 Pronouns: he/him
