@@ -1,23 +1,31 @@
-### I am `Sargam Poudel` :)
-#### I like making, breaking, experimenting, developing and learning things about the web.
+<h1 align="center">I am <a href='https://sargam.me?ref=github'>Sargam Poudel</a> :)</h1>
+<h4 align="center">
+  I like making, breaking, experimenting, developing and learning things about
+  the web.
+</h4>
 
-- 🔭 I’m currently working on: Backend with Typescript.
-- 🌱 I’m currently learning: Docker and beyond.
-- 👯 I’m looking to collaborate on: Typescript Projects.
-- 💬 Ask me about: Backend, Docker, Typescript.
-- 😄 Pronouns: he/him
+<h1 align="center">Skills and Technologies</h1>
 
-# Skills and Techonologies
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+<div align="center">
+  <img
+    src="https://camo.githubusercontent.com/f0832ac870385174acb792b561388283ec7676b7f35b8f4a27a3b5a886319464/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d74732c6a732c7079"
+    alt="LANGUAGES"
+  />
+  <br />
+  <img
+    src="https://camo.githubusercontent.com/5b82ed142236496534aa953aeb26c52fdf3a9a1c6a1678a1a5b90d4fee93bc3f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7461696c77696e642c72656163742c6e6578742c6e6573742c66617374617069"
+    alt="FRAMEWORKS"
+  />
+  <br />
+  <img
+    src="https://camo.githubusercontent.com/18a8b11a3aa5d404175bd006036e7c2fc4da1d7733ba16e35d40b6858bf950ba/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f7374677265732c6d6f6e676f6462"
+    alt="DATABASES"
+  />
+  <br />
+  <img
+    src="https://camo.githubusercontent.com/1095ef96e3d50f2994af28738bb4a7a88c7ef2214f2f9337655fb778051325b4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d76696d2c6769742c646f636b6572"
+    alt="TOOLS"
+  />
 
-![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Nest JS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+</p>
+</div>
