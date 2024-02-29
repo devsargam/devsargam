@@ -1,0 +1,21 @@
+{
+  "name": "devsargam",
+  "version": "0.0.0",
+  "description": "just my intro",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "files": ["cli.js"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devsargam/devsargam.git"
+  },
+  "keywords": [
+    "aboutme"
+  ],
+  "author": "Sargam Poudel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devsargam/devsargam/issues"
+  },
+  "homepage": "https://github.com/devsargam/devsargam#readme"
+}
