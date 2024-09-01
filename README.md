@@ -6,18 +6,8 @@
   the web.
 </h4>
 
-<h2>GitHub Stats</h2>
-<details>
-<summary> 
-My Github Stats
-</summary>
-
-![Sargam's Github Stats](https://github-readme-stats.vercel.app/api?username=devsargam&show_icons=true&hide_title=true&count_private=true&theme=dark)
-
-
-</details>
-
-
+<h2>My GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=devsargam&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark" />
 
 <h2>Languages</h2>
 
